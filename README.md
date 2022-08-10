@@ -19,3 +19,6 @@ You can download the dataset for this task here:
 
 https://github.com/ghaniasaeed/Datasets/blob/main/Employee_Salaries.xlsx
 
+The completed project in pdf is shown in 'Visualization_completed.pdf'
+
+The completed project in Tableau file is shown in 'Salary_data_visualization.twbx'
