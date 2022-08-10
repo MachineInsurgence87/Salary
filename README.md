@@ -1,6 +1,10 @@
 # Salary_data_visualization
  Data visualiztion of salary in various scenarios
  
+ Please mail me for more details and guidance:
+
+mathewdeepak7500@gmail.com
+ 
 (Data Visualization):
 
 As a Data analyst working for the government, you have been tasked to analyze the employee salaries for the given data set titled ‘Employee_Salaries.xlsx’ and create a dashboard to share your findings with the management.
